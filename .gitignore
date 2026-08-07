@@ -1,3 +1,7 @@
+# Sensitive data and generated images
+data.csv
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
